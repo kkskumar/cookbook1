@@ -1,0 +1,2 @@
+default["course"]["devops"] = "puppet"
+
